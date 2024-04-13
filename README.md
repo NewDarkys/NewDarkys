@@ -44,6 +44,6 @@ I'm a 17-year certified Full Stack Developer.
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ⭐ by starring some of the repositories!
 
 </div>
