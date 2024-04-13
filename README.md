@@ -5,7 +5,7 @@ I'm a 17-year certified Full Stack Developer.
 
 - 🔭 I’m currently working at an Enterprise level, at a public gamedev company as a Full-Stack Developer.
 - ⚡ Fun Fact: I can write software in most languages, but NodeJS backends is my primary as of right now.
-- 😱 Another Fun Fact: I have 25+ repositories including my private ones. So yes, most of my source code is private. 😎
+- 😱 Another Fun Fact: I have 45+ repositories including my private ones. So yes, most of my source code is private. 😎
 <details>
   <summary> - 📫 My Contacts:</summary>
   <a href="https://twitter.com/RUS_Darkys" target="_blank">Twitter / X</a><br>
