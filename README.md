@@ -19,7 +19,7 @@ I'm a 17-year certified Full Stack Developer.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg](https://www.youtube.com/watch?v=bOd_ecJon9s&t=19785s)"></code>
+<code><img height="20" src="[https://www.youtube.com/watch?v=bOd_ecJon9s&t=19785s](https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg)"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"></code>
