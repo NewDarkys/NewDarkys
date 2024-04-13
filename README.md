@@ -37,28 +37,8 @@ I'm a 17-year certified Full Stack Developer.
 
 <img align="center" src="snake.svg" />
 
-<a href="https://github.com/Zebratic/UE4Injector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=UE4Injector&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/C0bW3b">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=C0bW3b&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/CSharpGUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=CSharpGUI&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/GHook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=GHook&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/DuckScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=DuckScript&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/AppOnHijacker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=AppOnHijacker&theme=dark" />
+<a href="https://github.com/NewDarkys/www.darkys.ru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NewDarkys&repo=www.darkys.ru&theme=dark" />
 </a>
 
 <div align="center">
