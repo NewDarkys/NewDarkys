@@ -8,9 +8,9 @@ I'm a 17-year certified Full Stack Developer.
 - 😱 Another Fun Fact: I have 25+ repositories including my private ones. So yes, most of my source code is private. 😎
 <details>
   <summary> - 📫 My Contacts:</summary>
-  <a href="https://twitter.com/RUS_Darkys">Twitter / X</a><br>
-  <a href="https://www.youtube.com/channel/UCuxy9aXG43ruqRY4LrbTfqg">Youtube</a><br>
-  <a href="https://discord.com/users/725731246218412064">Discord</a><br>
+  <a href="https://twitter.com/RUS_Darkys" target="_blank">Twitter / X</a><br>
+  <a href="https://www.youtube.com/channel/UCuxy9aXG43ruqRY4LrbTfqg" target="_blank">Youtube</a><br>
+  <a href="https://discord.com/users/725731246218412064" target="_blank">Discord</a><br>
  
 </details>
 
@@ -19,15 +19,15 @@ I'm a 17-year certified Full Stack Developer.
 
 **Languages and Tools:**  
 
-<code><a href="https://x.com"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></a></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><a href="https://x.com" target="_blank"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></a></code>
+<code><a href="https://x.com"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
+<code><a href="https://x.com"><img height="20" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico"></a></code>
+<code><a href="https://x.com"><img height="20" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"></code>
+<code><a href="https://x.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a></code>
+<code><a href="https://x.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+<code><a href="https://x.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
+<code><a href="https://x.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a href="https://x.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>    
 
 <a href="https://github.com/NewDarkys">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDarkys&theme=dark&hide_langs_below=1" />
