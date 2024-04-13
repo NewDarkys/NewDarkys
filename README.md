@@ -22,7 +22,7 @@ I'm a 17-year certified Full Stack Developer.
 <code><a href="https://luau-lang.org"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></a></code>
 <code><a href="https://www.python.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.autohotkey.com/"><img height="20" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico"></a></code>
-<code><a href="https://isocpp.org/"><img height="20" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"></code>
+<code><a href="https://isocpp.org/"><img height="20" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"></a></code>
 <code><a href="https://www.php.net/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
