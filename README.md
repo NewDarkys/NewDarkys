@@ -35,7 +35,8 @@ I'm a 17-year certified Full Stack Developer.
 <a href="https://github.com/NewDarkys">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NewDarkys&show_icons=true&theme=dark&line_height=27" alt="Darkys's github stats"/>
 </a>
-<br>
+
+
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
 <a href="https://github.com/NewDarkys/www.darkys.ru">
