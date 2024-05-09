@@ -43,7 +43,7 @@ I'm a 19-year certified Full Stack Developer.
 </a>
 
 <a href="https://github.com/NewDarkys/www.xfirka.ru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NewDarkys&repo=www.darkys.ru&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NewDarkys&repo=www.xfirka.ru&theme=dark" />
 </a>
 
 <div align="center">
