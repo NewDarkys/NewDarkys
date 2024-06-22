@@ -27,8 +27,8 @@ I'm a 19-year certified Full Stack Developer.
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://nodejs.org/en"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>    
 
+Knit
 <a href="https://github.com/NewDarkys">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDarkys&theme=dark&hide_langs_below=1" />
 </a>
