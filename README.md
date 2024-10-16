@@ -76,16 +76,15 @@ I'm a 19-year-old certified Full Stack Developer.
       <td><a href="https://code.visualstudio.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a></td>
       <td><a href="https://visualstudio.microsoft.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a></td>
       <td><a href="https://www.qt.io/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"></a></td>
-      <td><a href="https://nmap.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg"></a></td>
-      <td><a href="https://www.wireshark.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg"></a></td>
+      <td><a href="https://nmap.org/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nmap_logo.svg/1920px-Nmap_logo.svg.png"></a></td>
+      <td><a href="https://www.wireshark.org/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Wireshark_logo_2021.svg"></a></td>
       <td><a href="https://www.postman.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></a></td>
-      <td><a href="https://www.flstudio.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flstudio/flstudio-original.svg"></a></td>
+      <td><a href="https://www.flstudio.com/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/FL_Studio_20_Icon.svg/1024px-FL_Studio_20_Icon.svg.png"></a></td>
       <td><a href="https://www.blender.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"></a></td>
-      <td><a href="https://krita.org/en/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/krita/krita-original.svg"></a></td>
+      <td><a href="https://krita.org/en/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Krita_logo.svg"></a></td>
     </tr>
   </tbody>
 </table>
-
 
 
 <div align="center">  
