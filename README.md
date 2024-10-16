@@ -1,17 +1,20 @@
-## Hello, I'm [Darkys](https://www.darkys.ru/) 👋  
-I'm a 19-year certified Full Stack Developer.  
-<img src="https://discord.c99.nl/widget/theme-3/725731246218412064.png">  
+## 👋 Hello, I'm [Darkys](https://www.darkys.ru/)  
+I'm a 19-year-old certified Full Stack Developer.  
+<img src="https://discord.c99.nl/widget/theme-3/725731246218412064.png" alt="Discord Profile" style="border-radius: 8px;"/>
 
-- 🔭 I’m currently working at an Enterprise level, at a public gamedev company as a Full-Stack Developer.
-- ⚡ Fun Fact: I can write software in most languages, but NodeJS backends is my primary as of right now.
-- 😱 Another Fun Fact: I have 45+ repositories including my private ones. So yes, most of my source code is private. 😎 
+---
+
+- 🔭 Currently, I work as a Full-Stack Developer at an enterprise-level public game development company.
+- ⚡ **Fun Fact:** I can write software in most programming languages, but my primary focus right now is on Node.js backends.
+- 😱 **Another Fun Fact:** I have 45+ repositories, including private ones. So yes, most of my source code is private! 😎 
 
 <details>
-  <summary> - 📫 My Contacts:</summary>  
-  <a href="https://twitter.com/RUS_Darkys" target="_blank">Twitter / X</a><br>  
-  <a href="https://www.youtube.com/channel/UCuxy9aXG43ruqRY4LrbTfqg" target="_blank">Youtube</a><br>  
-  <a href="https://discord.com/users/725731246218412064" target="_blank">Discord</a><br>  
+  <summary>📫 My Contacts:</summary>
+  - [Twitter / X](https://twitter.com/RUS_Darkys)  
+  - [YouTube](https://www.youtube.com/channel/UCuxy9aXG43ruqRY4LrbTfqg)  
+  - [Discord](https://discord.com/users/725731246218412064)  
 </details>
+
 
 [![Twitter: RUS_Darkys](https://img.shields.io/twitter/follow/RUS_Darkys?style=social)](https://twitter.com/RUS_Darkys)  
 [![GitHub NewDarkys](https://img.shields.io/github/followers/NewDarkys?label=follow&style=social)](https://github.com/NewDarkys)  
