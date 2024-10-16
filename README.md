@@ -19,6 +19,8 @@ I'm a 19-year-old certified Full Stack Developer.
 [![Twitter: RUS_Darkys](https://img.shields.io/twitter/follow/RUS_Darkys?style=social)](https://twitter.com/RUS_Darkys)  
 [![GitHub NewDarkys](https://img.shields.io/github/followers/NewDarkys?label=follow&style=social)](https://github.com/NewDarkys)  
 
+<br><br>
+
 <h2> 🌐 Languages </h2>
 <table>
   <tbody align="center">
