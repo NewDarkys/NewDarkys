@@ -87,7 +87,7 @@ I'm a 19-year-old certified Full Stack Developer.
   </tbody>
 </table>
 
-
+<br><br>
 
 <div align="center">  
   <a href="https://github.com/NewDarkys">  
