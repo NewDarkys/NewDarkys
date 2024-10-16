@@ -68,59 +68,24 @@ I'm a 19-year-old certified Full Stack Developer.
   </tbody>
 </table>
 
-<h2> 🔧 Tools & IDEs </h2>
+<h2> 🛠️ Tools & IDEs </h2>
 <table>
   <tbody align="center">
     <tr>
-      <th>Tools & IDEs</th>
-      <td>
-        <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://visualstudio.microsoft.com/" title="Visual Studio">
-          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.qt.io/" title="Qt Creator">
-          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://nmap.org/" title="Nmap">
-          <img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nmap_logo.svg/2560px-Nmap_logo.svg.png"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.wireshark.org/" title="Wireshark">
-          <img height="22" src="https://www.wireshark.org/assets/images/logos/wireshark-logo.svg"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.postman.com/" title="Postman">
-          <img height="22" src="https://www.postman.com/assets/logos/postman-logo.svg"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://flstudio.en.softonic.com/" title="FL Studio">
-          <img height="22" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/FL_Studio_20_logo.svg/2560px-FL_Studio_20_logo.svg.png"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.blender.org/" title="Blender">
-          <img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Blender_logo_no_text.svg/2560px-Blender_logo_no_text.svg.png"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://krita.org/en/" title="Krita">
-          <img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Krita_logo.svg/2560px-Krita_logo.svg.png"/>
-        </a>
-      </td>
+      <th rowspan="2">Tools & IDEs</th>
+      <td><a href="https://code.visualstudio.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a></td>
+      <td><a href="https://visualstudio.microsoft.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a></td>
+      <td><a href="https://www.qt.io/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"></a></td>
+      <td><a href="https://nmap.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg"></a></td>
+      <td><a href="https://www.wireshark.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg"></a></td>
+      <td><a href="https://www.postman.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></a></td>
+      <td><a href="https://www.flstudio.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flstudio/flstudio-original.svg"></a></td>
+      <td><a href="https://www.blender.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"></a></td>
+      <td><a href="https://krita.org/en/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/krita/krita-original.svg"></a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 <div align="center">  
