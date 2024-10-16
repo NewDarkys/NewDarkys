@@ -68,28 +68,25 @@ I'm a 19-year-old certified Full Stack Developer.
   </tbody>
 </table>
 
+
 <h2> 🛠️ Tools & IDEs </h2>
 <table>
   <tbody align="center">
     <tr>
       <th rowspan="2">Tools & IDEs</th>
-<td> <a href="https://www.git-scm.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.msys2.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msys2/msys2-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intel/intel-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.runjs.app"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.sublimetext.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://visualstudio.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.qt.io/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://nmap.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.wireshark.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.postman.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.fluidsynth.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://www.blender.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="22px"/> </a> </td>
-      <td> <a href="https://krita.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/krita/krita-original.svg" width="22px"/> </a> </td>
+      <td><a href="https://code.visualstudio.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a></td>
+      <td><a href="https://visualstudio.microsoft.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a></td>
+      <td><a href="https://www.qt.io/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"></a></td>
+      <td><a href="https://nmap.org/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nmap_logo.svg/1920px-Nmap_logo.svg.png"></a></td>
+      <td><a href="https://www.wireshark.org/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Wireshark_logo_2021.svg"></a></td>
+      <td><a href="https://www.postman.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></a></td>
+      <td><a href="https://www.flstudio.com/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/FL_Studio_20_Icon.svg/1024px-FL_Studio_20_Icon.svg.png"></a></td>
+      <td><a href="https://www.blender.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"></a></td>
+      <td><a href="https://krita.org/en/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Krita_logo.svg"></a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 <div align="center">  
