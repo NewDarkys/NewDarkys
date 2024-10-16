@@ -84,10 +84,7 @@ I'm a 19-year-old certified Full Stack Developer.
       <td><a href="https://www.postman.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></a></td>
       <td><a href="https://www.flstudio.com/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/FL_Studio_20_Icon.svg/1024px-FL_Studio_20_Icon.svg.png"></a></td>
       <td><a href="https://www.blender.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"></a></td>
-      <td><a href="https://krita.org/en/">  <picture>  
-    <source media="(prefers-color-scheme: dark)" srcset="https://krita.org/images/krita-logo-dark.svg" />  
-    <source media="(prefers-color-scheme: light)" srcset="https://krita.org/images/krita-logo-light.svg" />  
-  </picture>  </a></td>
+      <td><a href="https://krita.org/en/"><img height="20" src="https://krita.org/images/krita-logo-dark.svg"></a></td>
     </tr>
   </tbody>
 </table>
