@@ -10,10 +10,13 @@
 
 <details>
   <summary>📫 My Contacts:</summary>
+  
   - [Twitter / X](https://twitter.com/RUS_Darkys)  
   - [YouTube](https://www.youtube.com/channel/UCuxy9aXG43ruqRY4LrbTfqg)  
   - [Discord](https://discord.com/users/725731246218412064)  
+
 </details>
+
 
 [![Twitter: RUS_Darkys](https://img.shields.io/twitter/follow/RUS_Darkys?style=social)](https://twitter.com/RUS_Darkys)  
 [![GitHub NewDarkys](https://img.shields.io/github/followers/NewDarkys?label=follow&style=social)](https://github.com/NewDarkys)  
