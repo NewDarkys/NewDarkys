@@ -1,12 +1,12 @@
 ## 👋 Hello, I'm [Darkys](https://www.darkys.ru/)  
-I'm a 19-year-old certified Full Stack Developer.  
+Full Stack Developer at [SpaceX](https://www.spacex.com)  
 <img src="https://discord.c99.nl/widget/theme-3/725731246218412064.png" alt="Discord Profile" style="border-radius: 8px;"/>
 
 ---
 
-- 🔭 Currently, I work as a Full-Stack Developer at an enterprise-level public game development company.
-- ⚡ **Fun Fact:** I can write software in most programming languages, but my primary focus right now is on Node.js backends.
-- 😱 **Another Fun Fact:** I have 45+ repositories, including private ones. So yes, most of my source code is private! 😎 
+- 🔭 **Current Role:** Full-Stack Developer at SpaceX, where I'm involved in developing and optimizing next-generation space software.
+- ⚡ **Fun Fact:** I code in various languages, though currently, I'm primarily focused on developing robust Node.js backends.
+- 😱 **Another Fun Fact:** I have 45+ repositories, including private ones. Most of my code is under wraps! 😎  
 
 <details>
   <summary>📫 My Contacts:</summary>
@@ -14,7 +14,6 @@ I'm a 19-year-old certified Full Stack Developer.
   - [YouTube](https://www.youtube.com/channel/UCuxy9aXG43ruqRY4LrbTfqg)  
   - [Discord](https://discord.com/users/725731246218412064)  
 </details>
-
 
 [![Twitter: RUS_Darkys](https://img.shields.io/twitter/follow/RUS_Darkys?style=social)](https://twitter.com/RUS_Darkys)  
 [![GitHub NewDarkys](https://img.shields.io/github/followers/NewDarkys?label=follow&style=social)](https://github.com/NewDarkys)  
@@ -99,8 +98,6 @@ I'm a 19-year-old certified Full Stack Developer.
     <img src="https://github-readme-stats.vercel.app/api?username=NewDarkys&show_icons=true&theme=dark&line_height=27" alt="Darkys's github stats"/>  
   </a>  
 
-
-
   <picture>  
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NewDarkys/NewDarkys/output/github-contribution-grid-snake-dark.svg" />  
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NewDarkys/NewDarkys/output/github-contribution-grid-snake.svg" />  
@@ -117,4 +114,3 @@ I'm a 19-year-old certified Full Stack Developer.
 
   <h3>Show some ⭐ by starring some of the repositories!</h3>  
 </div>
-
