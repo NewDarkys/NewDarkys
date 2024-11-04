@@ -1,5 +1,4 @@
 ## 👋 Hello, I'm [Darkys](https://www.darkys.ru/)  
-Full Stack Developer at [SpaceX](https://www.spacex.com)  
 
 <img src="https://discord.c99.nl/widget/theme-3/725731246218412064.png" alt="Discord Profile" style="border-radius: 8px;"/>
 
