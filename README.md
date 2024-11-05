@@ -23,49 +23,49 @@
 
 <br>
 
-<h2>🌐 Languages</h2>
+<h2> 🌐 Languages </h2>
 <table>
   <tbody align="center">
     <tr>
       <th>Languages</th>
       <td>
         <a href="https://luau-lang.org" title="Luau">
-          <img style="max-width:100%; height:auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40"/>
+          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"/>
         </a>
       </td>
       <td>
         <a href="https://www.python.org/" title="Python">
-          <img style="max-width:100%; height:auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
         </a>
       </td>
       <td>
         <a href="https://www.autohotkey.com/" title="AutoHotkey">
-          <img style="max-width:100%; height:auto;" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico" width="40"/>
+          <img height="22" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico"/>
         </a>
       </td>
       <td>
         <a href="https://isocpp.org/" title="C++">
-          <img style="max-width:100%; height:auto;" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4" width="40"/>
+          <img height="22" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"/>
         </a>
       </td>
       <td>
         <a href="https://www.php.net/" title="PHP">
-          <img style="max-width:100%; height:auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="40"/>
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
         </a>
       </td>
       <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-          <img style="max-width:100%; height:auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40"/>
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
         </a>
       </td>
       <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-          <img style="max-width:100%; height:auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40"/>
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
         </a>
       </td>
       <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-          <img style="max-width:100%; height:auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40"/>
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
         </a>
       </td>
     </tr>
