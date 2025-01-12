@@ -30,49 +30,48 @@
       <th>Languages</th>
       <td>
         <a href="https://luau-lang.org" title="Luau">
-          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"/>
+          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
         </a>
       </td>
       <td>
         <a href="https://www.python.org/" title="Python">
-          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+          <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
         </a>
       </td>
       <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
         </a>
       </td>
       <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
         </a>
       </td>
       <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
         </a>
       </td>
       <td>
         <a href="https://www.autohotkey.com/" title="AutoHotkey">
-          <img height="22" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico"/>
+          <img height="22" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico" />
         </a>
       </td>
       <td>
         <a href="https://isocpp.org/" title="C++">
-          <img height="22" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"/>
+          <img height="22" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4" />
         </a>
       </td>
       <td>
         <a href="https://www.php.net/" title="PHP">
-          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
         </a>
       </td>
-<tr>
-      
     </tr>
   </tbody>
 </table>
+
 
 
 
