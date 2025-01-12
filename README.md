@@ -39,6 +39,21 @@
         </a>
       </td>
       <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+        </a>
+      </td>
+      <td>
         <a href="https://www.autohotkey.com/" title="AutoHotkey">
           <img height="22" src="https://raw.githubusercontent.com/bluesatin/Autohotkey-Icons/master/Icons/11-LightGreen/H.ico"/>
         </a>
@@ -53,21 +68,8 @@
           <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
         </a>
       </td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-          <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-        </a>
-      </td>
+      
+      
     </tr>
   </tbody>
 </table>
