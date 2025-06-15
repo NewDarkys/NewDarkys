@@ -99,7 +99,7 @@
   <a href="https://github.com/NewDarkys">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDarkys&theme=dark&hide_langs_below=1" />  
   </a>  
-<a href="https://github.com/NewDarkys">  Add commentMore actions
+  <a href="https://github.com/NewDarkys">
     <img src="https://github-readme-stats.vercel.app/api?username=NewDarkys&show_icons=true&theme=dark&line_height=27" alt="Darkys's github stats"/>  
   </a>  
   <picture>  
