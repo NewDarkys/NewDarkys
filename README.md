@@ -99,7 +99,9 @@
   <a href="https://github.com/NewDarkys">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDarkys&theme=dark&hide_langs_below=1" />  
   </a>  
-
+<a href="https://github.com/NewDarkys">  Add commentMore actions
+    <img src="https://github-readme-stats.vercel.app/api?username=NewDarkys&show_icons=true&theme=dark&line_height=27" alt="Darkys's github stats"/>  
+  </a>  
   <picture>  
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NewDarkys/NewDarkys/output/github-contribution-grid-snake-dark.svg" />  
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NewDarkys/NewDarkys/output/github-contribution-grid-snake.svg" />  
@@ -110,9 +112,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NewDarkys&repo=www.darkys.ru&theme=dark" />  
   </a>  
 
-  <a href="https://github.com/NewDarkys/www.xfirka.ru">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NewDarkys&repo=www.xfirka.ru&theme=dark" />  
-  </a>  
 
   <h3>Show some ⭐ by starring some of the repositories!</h3>  
 </div>
