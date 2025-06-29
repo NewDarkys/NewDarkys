@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 **Current Role:** Full-Stack Developer at SpaceX, where I'm involved in developing and optimizing next-generation space software.
+- 🔭 **Current Role:** Full-Stack Developer.
 - ⚡ **Fun Fact:** I code in various languages, though currently, I'm primarily focused on developing robust Node.js backends.
 - 😱 **Another Fun Fact:** I have 45+ repositories, including private ones. Most of my code is under wraps! 😎  
 
